@@ -30,7 +30,7 @@ twitter_username: teraslee
 github_username:  hunylee
 
 # Build settings
-theme: simplex
+theme: jekyll-theme-simplex
 plugins:
   - jekyll-feed
 
